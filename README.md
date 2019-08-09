@@ -1,6 +1,6 @@
 # firstbone
 
-hi people
+Hi people
 
-I am intertesed in programming.
-I have never done this before. I want to learn some basic knowledge from github. 
+I am a total freshman of programing.
+I've never done this before. I am here to learn some basic knowledge.
